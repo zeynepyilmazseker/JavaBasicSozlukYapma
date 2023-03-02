@@ -1,0 +1,12 @@
+araba:car
+saat:watch
+şişe:bottle
+kalem:pencil
+bitki:plant
+hayvan:animal
+silgi:eraser
+yemek:food
+şeker:sugar
+kaz:goose
+kahve:coffee
+yastık:pillow
